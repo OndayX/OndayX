@@ -2,7 +2,7 @@
 
 A new stranger is coming!
 
-#### TRYING BUILDING    ##### AND EVERYTHING WILL FINE
+#### TRYING BUILDING    ##### AND EVERYTHING WILL BE FINE
 
 <img src="https://github.com/OndayX/OndayX/blob/main/gihub.png" width="auto">
 
