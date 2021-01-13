@@ -2,9 +2,10 @@
 
 A new stranger is coming!
 
-#### TRYING BUILDING
+#### TRYING BUILDING    ##### AND EVERYTHING WILL FINE
 
-##### AND EVERYTHING WILL FINE
+<img src="https://github.com/OndayX/OndayX/blob/main/gihub.png" width="auto">
+
 
 <!--
 **OndayX/OndayX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
