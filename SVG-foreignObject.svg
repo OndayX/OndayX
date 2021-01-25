@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 auto auto" min-width="400px" min-height="400px" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg"><!--The original author set the display area value, now it is cancelled-->
-	<foreignObject min-width="400px" min-height="400px" width="100%" height="100%">
+<svg fill="none" viewBox="0 0 auto auto"  width="100%" height="100%" xmlns="http://www.w3.org/2000/svg"><!--The original author set the display area value, now it is cancelled-->
+	<foreignObject  width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@keyframes rotate {
@@ -62,7 +62,7 @@
 					position:absolute;
 					bottom:0px;<!--The original author set the height, now the dynamic display according to the browser height-->
 					min-width:400px;
-					min-height:400px;<!--If the minimum width and height are not set on github, the display effect is not good-->
+					min-height:400px;<!--If the minimum width and height are not set on github, the display effect is not good--><!--didn't work-->
 				}
 
 				h1 {
